@@ -61,7 +61,7 @@ const generateCombinedQuestions = [
     {
         type: 'list',
         name: 'title',
-        message: 'Select an emplyee title from the list.',
+        message: 'Select an employee title from the list.',
         choices:['Engineer', 'Intern']
     },
     {
